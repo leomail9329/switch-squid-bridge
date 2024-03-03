@@ -1,0 +1,1 @@
+(self.webpackChunktyche=self.webpackChunktyche||[]).push([[671],{3136:()=>{},33950:()=>{},77438:()=>{}}]);

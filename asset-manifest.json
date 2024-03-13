@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff0c2154.css",
-    "main.js": "/static/js/main.454a9f83.js",
+    "main.css": "/static/css/main.1660878e.css",
+    "main.js": "/static/js/main.0d696756.js",
     "static/js/654.b748fa9c.chunk.js": "/static/js/654.b748fa9c.chunk.js",
     "static/js/883.cefdf9ad.chunk.js": "/static/js/883.cefdf9ad.chunk.js",
     "static/js/142.b08fb198.chunk.js": "/static/js/142.b08fb198.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/715.e67d91ed.chunk.js": "/static/js/715.e67d91ed.chunk.js",
     "static/media/sidebar-background.png": "/static/media/sidebar-background.49fb9f58869362623a8d.png",
     "static/media/keplr.svg": "/static/media/keplr.3bb2a7dc6c194c2982f43e28ad9a3685.svg",
-    "static/media/swap-cover.png": "/static/media/swap-cover.1f2632b58778021fa461.png",
+    "static/media/Proto Mono Regular.ttf": "/static/media/Proto Mono Regular.9564fa7de9c18b1d1392.ttf",
     "static/media/xdefi.svg": "/static/media/xdefi.5bfbc1c7429f87aa07f2a1c6e19e3385.svg",
     "static/media/rabby.svg": "/static/media/rabby.2131b7bbc4ad62ceb8c941ede22a5c57.svg",
     "static/media/cosmostation.svg": "/static/media/cosmostation.e0730d4da727d991428f05de65e30559.svg",
@@ -30,20 +30,20 @@
     "static/media/c98.svg": "/static/media/c98.e658db17452abfeeefcbfe8e7e8ced02.svg",
     "static/media/binance.svg": "/static/media/binance.a8bdedaa27f7ff88c6769a0f8b10eeab.svg",
     "static/media/zerion.svg": "/static/media/zerion.999d8ab7ecd103531fc0323c571ec0b0.svg",
+    "index.html": "/index.html",
     "static/media/wallet_icon.svg": "/static/media/wallet_icon.191f970c25382576b0fda3d4292900c0.svg",
     "static/media/coinbase.svg": "/static/media/coinbase.e1c8744b25f27673848f79f5c256dc23.svg",
     "static/media/trustwallet.svg": "/static/media/trustwallet.123a236026ee4659d3c2875ac0068c6d.svg",
-    "index.html": "/index.html",
     "static/media/fetchai.svg": "/static/media/fetchai.fec56ca4be30f15d7038094ed4e8db11.svg",
-    "main.ff0c2154.css.map": "/static/css/main.ff0c2154.css.map",
-    "main.454a9f83.js.map": "/static/js/main.454a9f83.js.map",
+    "main.1660878e.css.map": "/static/css/main.1660878e.css.map",
+    "main.0d696756.js.map": "/static/js/main.0d696756.js.map",
     "142.b08fb198.chunk.js.map": "/static/js/142.b08fb198.chunk.js.map",
     "132.d6e77aa1.chunk.js.map": "/static/js/132.d6e77aa1.chunk.js.map",
     "419.b26e827c.chunk.js.map": "/static/js/419.b26e827c.chunk.js.map",
     "715.e67d91ed.chunk.js.map": "/static/js/715.e67d91ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff0c2154.css",
-    "static/js/main.454a9f83.js"
+    "static/css/main.1660878e.css",
+    "static/js/main.0d696756.js"
   ]
 }
